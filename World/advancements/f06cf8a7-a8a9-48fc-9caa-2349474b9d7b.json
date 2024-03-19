@@ -1,0 +1,696 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "kawaiidishes:kawaiidishes/root": {
+    "criteria": {
+      "tick": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/root": {
+    "criteria": {
+      "tick": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2024-02-24 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-02-24 04:18:01 +0000",
+      "minecraft:sunflower_plains": "2024-02-24 04:19:01 +0000",
+      "minecraft:birch_forest": "2024-02-27 22:09:11 +0000",
+      "minecraft:windswept_hills": "2024-02-26 05:04:08 +0000",
+      "minecraft:beach": "2024-02-26 00:22:52 +0000",
+      "minecraft:river": "2024-02-26 02:02:32 +0000",
+      "minecraft:stony_shore": "2024-02-26 00:10:05 +0000",
+      "minecraft:dripstone_caves": "2024-02-26 01:44:39 +0000",
+      "minecraft:grove": "2024-02-24 04:18:38 +0000",
+      "minecraft:swamp": "2024-02-26 05:31:08 +0000",
+      "minecraft:cold_ocean": "2024-02-27 22:51:19 +0000",
+      "minecraft:forest": "2024-02-26 01:08:25 +0000",
+      "minecraft:ocean": "2024-02-26 04:59:36 +0000",
+      "minecraft:meadow": "2024-02-24 04:17:16 +0000",
+      "minecraft:plains": "2024-02-24 04:16:00 +0000"
+    },
+    "done": false
+  },
+  "bettermcdonaldsmod:bettermcdonaldsmod/get_seeds": {
+    "criteria": {
+      "inventory_changed": "2024-02-24 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2024-02-24 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-02-24 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "kawaiidishes:kawaiidishes/coffee_fruit_got": {
+    "criteria": {
+      "requirement": "2024-02-24 04:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-02-24 04:48:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-02-26 01:11:36 +0000",
+      "rocky_shrubland": "2024-02-27 22:08:58 +0000",
+      "jade_cliffs": "2024-02-26 01:11:28 +0000",
+      "clover_patch": "2024-02-27 22:51:58 +0000",
+      "lavender_forest": "2024-02-27 21:47:59 +0000",
+      "moor": "2024-02-27 22:09:10 +0000",
+      "coniferous_forest": "2024-02-25 23:49:12 +0000",
+      "redwood_forest": "2024-02-27 22:51:47 +0000",
+      "seasonal_orchard": "2024-02-27 22:08:42 +0000",
+      "lavender_field": "2024-02-24 04:51:49 +0000",
+      "grassland": "2024-02-27 22:09:07 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2024-02-24 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-02-24 05:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-02-26 05:09:23 +0000",
+      "minecraft:skeleton": "2024-02-24 05:23:27 +0000",
+      "minecraft:hoglin": "2024-02-26 01:13:19 +0000",
+      "minecraft:vindicator": "2024-02-26 05:10:20 +0000",
+      "minecraft:spider": "2024-02-25 23:01:41 +0000",
+      "minecraft:creeper": "2024-02-26 01:49:24 +0000",
+      "minecraft:slime": "2024-02-26 00:27:32 +0000",
+      "minecraft:phantom": "2024-02-26 01:11:48 +0000",
+      "minecraft:wither_skeleton": "2024-02-26 01:11:52 +0000",
+      "minecraft:cave_spider": "2024-02-26 05:55:18 +0000",
+      "minecraft:stray": "2024-02-26 01:48:53 +0000",
+      "minecraft:zombie": "2024-02-26 01:05:11 +0000",
+      "minecraft:zombie_villager": "2024-02-26 05:07:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-02-24 05:23:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "sweetpotato_seed": "2024-02-26 00:49:25 +0000",
+      "vanilla_seeds": "2024-02-24 07:28:49 +0000",
+      "chile_pepper_seed": "2024-02-26 01:41:44 +0000",
+      "greenonion_seed": "2024-02-26 01:41:45 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-02-24 07:28:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "greenonion_seed": "2024-02-26 01:41:45 +0000",
+      "vanilla_seeds": "2024-02-24 07:28:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-02-25 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-02-26 00:11:00 +0000",
+      "apple": "2024-02-25 23:41:38 +0000",
+      "golden_apple": "2024-02-26 01:03:56 +0000",
+      "bread": "2024-02-26 05:07:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-02-25 23:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-02-25 23:42:17 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-02-25 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-02-25 23:43:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-02-25 23:51:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-02-26 01:13:15 +0000",
+      "opened_chest": "2024-02-25 23:51:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-02-25 23:51:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-02-25 23:52:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-02-25 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2024-02-25 23:56:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-02-25 23:56:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-02-25 23:57:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-02-26 00:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-02-26 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-02-26 00:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-02-26 00:23:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "sweetpotato_seed": "2024-02-26 00:49:25 +0000",
+      "chile_pepper_seed": "2024-02-26 01:41:44 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-02-26 01:11:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-02-26 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-02-26 01:16:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-02-26 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-02-26 01:50:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-02-26 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-02-26 02:41:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2024-02-26 05:04:59 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-02-26 05:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "supplementaries:flax": "2024-02-27 21:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-02-27 23:33:43 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
